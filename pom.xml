@@ -12,6 +12,7 @@
         <module>ui</module>
         <module>console</module>
         <module>demoui</module>
+        <module>moduleapp</module>
     </modules>
 
     <properties>

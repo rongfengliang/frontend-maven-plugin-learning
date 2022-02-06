@@ -1,0 +1,16 @@
+{
+  "name": "moduleapp",
+  "version": "1.0.0",
+  "source": "src/frontend/index.html",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.2.1"
+  },
+  "scripts": {
+    "build": "parcel build",
+    "b-publish": "parcel build --public-url ."
+  },
+  "dependencies": {
+    "clientjs": "^0.2.1"
+  }
+}
